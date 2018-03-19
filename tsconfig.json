@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "noEmit": true,
+    "pretty": true,
+    "lib": ["esnext", "dom"]
+  },
+}

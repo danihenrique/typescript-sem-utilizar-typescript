@@ -1,0 +1,10 @@
+{
+  "name": "typescript-sem-utilizar-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduardo Rabelo <oieduardorabelo@gmail.com> (https://github.com/oieduardorabelo)",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.7.2"
+  }
+}
